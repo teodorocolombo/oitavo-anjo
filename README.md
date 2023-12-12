@@ -56,7 +56,7 @@ ajshcis**w** ksidocs **(** aksical**teo** akj+>--**<=** skjsjdi**100** ajanhu0 *
 | WHILE | `w`                                | Loop `while`              |
 | PRINT | `p`                                | Comando de impressão      |
 | READ  | `r`                                | Comando de leitura        |
-
+|       | `%`                                | Comentário                |
 
 
 
