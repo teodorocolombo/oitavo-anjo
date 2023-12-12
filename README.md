@@ -59,7 +59,10 @@ ajshcis**w** ksidocs **(** aksical**teo** akj+>--**<=** skjsjdi**100** ajanhu0 *
 |       | `%`                                | Comentário                |
 
 
-
+## Como executar
+    - Execute o script build.sh, isso criará o binário comp
+    - execute o binário comp passando o arquivo .509-E para ele
+    - jogue a saída dele em uma arquivo e o execute com o pilheitor
 
 ### ***BNF:***
 
